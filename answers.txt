@@ -9,6 +9,3 @@ A: Branches keep all the new work separate from the work previously done and tes
 
 Q: In a project how many remote Git repositories do you usually have?
 A: You can have any number of git remote repositories you want but only one can be named the 'origin'. Also having multiple remotes means you need to push changes to all the remotes. So generally projects use one remote if it isn't really necessary to have more than one remote repository but you can have more than one if you want.
-
-
-
